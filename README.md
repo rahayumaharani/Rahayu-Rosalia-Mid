@@ -1,5 +1,5 @@
 # Rahayu-Rosalia-MidProject
-File to test virtual invironment (by :Rahayu and Rosalia)
+File to test virtual Environment (by :Rahayu and Rosalia)
   
   
 The main.py file will execute the whole program. To run it , you will need some requirements.
@@ -8,8 +8,7 @@ The main.py file will execute the whole program. To run it , you will need some 
 Note : dont forget to chage the path of the CSV file
 
 
-Syeps to run the program.
-
+Steps to run the program.
 
   1.Create a folder and store all the pyhton file and requirements.txt into it.
   
